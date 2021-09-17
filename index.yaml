@@ -13,6 +13,16 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 4.5.1.3
+    created: "2021-09-17T13:19:49.64585641Z"
+    description: A Helm chart to deploy coturn
+    digest: 1c69e973c1904243cdd58542ece06aa5a4af346c3ca2e1f077c3490e717e3d71
+    name: coturn
+    type: application
+    urls:
+    - https://github.com/iits-consulting/coturn-chart/releases/download/coturn-1.1.1-tcp-proxy/coturn-1.1.1-tcp-proxy.tgz
+    version: 1.1.1-tcp-proxy
+  - apiVersion: v2
+    appVersion: 4.5.1.3
     created: "2021-09-17T07:19:49.228707737Z"
     description: A Helm chart to deploy coturn
     digest: 45531fadf0bd113f6170835dda0ff1d562addb9bce40a5bf26ecc9f0a979ac3d
@@ -80,4 +90,4 @@ entries:
     urls:
     - https://github.com/iits-consulting/coturn-chart/releases/download/coturn-0.1.0/coturn-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-17T07:19:49.229105439Z"
+generated: "2021-09-17T13:19:49.645910814Z"
