@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   coturn:
   - apiVersion: v2
+    created: "2022-07-18T15:01:15.197283186Z"
+    description: A Helm chart to deploy coturn
+    digest: 7601d21f2dcef0e5390cf90e570ea02c823568c5307396ccf85d3e0bfe6c5d15
+    name: coturn
+    type: application
+    urls:
+    - https://github.com/iits-consulting/coturn-chart/releases/download/coturn-2.0.0/coturn-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
     appVersion: 4.5.1.3
     created: "2021-09-17T06:52:08.455065249Z"
     description: A Helm chart to deploy coturn
@@ -90,4 +99,4 @@ entries:
     urls:
     - https://github.com/iits-consulting/coturn-chart/releases/download/coturn-0.1.0/coturn-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-17T13:19:49.645910814Z"
+generated: "2022-07-18T15:01:15.197328686Z"
